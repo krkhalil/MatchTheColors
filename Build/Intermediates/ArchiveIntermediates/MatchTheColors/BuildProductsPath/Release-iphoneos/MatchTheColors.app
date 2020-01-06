@@ -1,0 +1,1 @@
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/Build/Intermediates/ArchiveIntermediates/MatchTheColors/InstallationBuildProductsLocation/Applications/MatchTheColors.app

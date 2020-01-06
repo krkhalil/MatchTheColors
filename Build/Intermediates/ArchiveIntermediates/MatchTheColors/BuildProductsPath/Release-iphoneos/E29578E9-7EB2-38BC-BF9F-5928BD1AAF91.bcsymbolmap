@@ -1,0 +1,130 @@
+BCSymbolMap Version: 2.0
+-[ViewController viewDidLoad]
+-[ViewController viewWillAppear:]
+-[ViewController easyButtonTouched:]
+-[ViewController hardButtonTouched:]
+_OBJC_CLASS_$_ViewController
+_OBJC_METACLASS_$_ViewController
+Apple LLVM version 10.0.0 (clang-1000.11.45.5)
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/MatchTheColors/ViewController.m
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors
+_OBJC_CLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/MatchTheColors/main.m
+main
+-[matchColorVC viewDidLoad]
+-[matchColorVC b1:]
+___19-[matchColorVC b1:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[matchColorVC b2:]
+___19-[matchColorVC b2:]_block_invoke
+___copy_helper_block_.47
+___destroy_helper_block_.48
+-[matchColorVC b3:]
+___19-[matchColorVC b3:]_block_invoke
+___copy_helper_block_.52
+___destroy_helper_block_.53
+-[matchColorVC b4:]
+___19-[matchColorVC b4:]_block_invoke
+___copy_helper_block_.57
+___destroy_helper_block_.58
+-[matchColorVC b5:]
+___19-[matchColorVC b5:]_block_invoke
+___copy_helper_block_.62
+___destroy_helper_block_.63
+-[matchColorVC b6:]
+___19-[matchColorVC b6:]_block_invoke
+___copy_helper_block_.67
+___destroy_helper_block_.68
+-[matchColorVC b7:]
+___19-[matchColorVC b7:]_block_invoke
+___copy_helper_block_.72
+___destroy_helper_block_.73
+-[matchColorVC b8:]
+___19-[matchColorVC b8:]_block_invoke
+___copy_helper_block_.77
+___destroy_helper_block_.78
+-[matchColorVC b9:]
+___19-[matchColorVC b9:]_block_invoke
+___copy_helper_block_.82
+___destroy_helper_block_.83
+-[matchColorVC returnColor]
+-[matchColorVC setColors]
+-[matchColorVC disableButtons]
+-[matchColorVC level]
+-[matchColorVC setLevel:]
+-[matchColorVC b1]
+-[matchColorVC setB1:]
+-[matchColorVC b2]
+-[matchColorVC setB2:]
+-[matchColorVC b3]
+-[matchColorVC setB3:]
+-[matchColorVC b4]
+-[matchColorVC setB4:]
+-[matchColorVC b5]
+-[matchColorVC setB5:]
+-[matchColorVC b6]
+-[matchColorVC setB6:]
+-[matchColorVC b7]
+-[matchColorVC setB7:]
+-[matchColorVC b8]
+-[matchColorVC setB8:]
+-[matchColorVC b9]
+-[matchColorVC setB9:]
+-[matchColorVC .cxx_destruct]
+_OBJC_CLASS_$_matchColorVC
+_OBJC_IVAR_$_matchColorVC.firstTime
+_OBJC_IVAR_$_matchColorVC._b1
+_OBJC_IVAR_$_matchColorVC.firstButton
+_OBJC_IVAR_$_matchColorVC.firstNumber
+_OBJC_IVAR_$_matchColorVC.secondNumber
+___block_descriptor_tmp
+_OBJC_IVAR_$_matchColorVC._b2
+___block_descriptor_tmp.49
+_OBJC_IVAR_$_matchColorVC._b3
+___block_descriptor_tmp.54
+_OBJC_IVAR_$_matchColorVC._b4
+___block_descriptor_tmp.59
+_OBJC_IVAR_$_matchColorVC._b5
+___block_descriptor_tmp.64
+_OBJC_IVAR_$_matchColorVC._b6
+___block_descriptor_tmp.69
+_OBJC_IVAR_$_matchColorVC._b7
+___block_descriptor_tmp.74
+_OBJC_IVAR_$_matchColorVC._b8
+___block_descriptor_tmp.79
+_OBJC_IVAR_$_matchColorVC._b9
+___block_descriptor_tmp.84
+_OBJC_IVAR_$_matchColorVC._level
+_OBJC_IVAR_$_matchColorVC.a
+_OBJC_METACLASS_$_matchColorVC
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/MatchTheColors/matchColorVC.m
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/MatchTheColors/matchColorVC.h
+__destroy_helper_block_
+__copy_helper_block_
+__19-[matchColorVC b9:]_block_invoke
+__19-[matchColorVC b8:]_block_invoke
+__19-[matchColorVC b7:]_block_invoke
+__19-[matchColorVC b6:]_block_invoke
+__19-[matchColorVC b5:]_block_invoke
+__19-[matchColorVC b4:]_block_invoke
+__19-[matchColorVC b3:]_block_invoke
+__19-[matchColorVC b2:]_block_invoke
+__19-[matchColorVC b1:]_block_invoke
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[AppDelegate applicationWillResignActive:]
+-[AppDelegate applicationDidEnterBackground:]
+-[AppDelegate applicationWillEnterForeground:]
+-[AppDelegate applicationDidBecomeActive:]
+-[AppDelegate applicationWillTerminate:]
+-[AppDelegate window]
+-[AppDelegate setWindow:]
+-[AppDelegate .cxx_destruct]
+_OBJC_IVAR_$_AppDelegate._window
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_UIApplicationDelegate
+l_OBJC_LABEL_PROTOCOL_$_UIApplicationDelegate
+_OBJC_METACLASS_$_AppDelegate
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/MatchTheColors/AppDelegate.m
+/Users/Macbook/Desktop/60 Dollars Apps/projects/MatchTheColors/MatchTheColors/AppDelegate.h
